@@ -1,4 +1,4 @@
-// EX 1.1: Blink LED connected to pin 13
+// Blink LED connected to pin 13
 
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
